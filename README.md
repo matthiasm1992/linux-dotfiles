@@ -1,4 +1,4 @@
-# linux-dotfiles
+# My Linux Dotfiles
 
 ### Aliases
 

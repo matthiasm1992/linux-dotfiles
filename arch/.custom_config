@@ -1,0 +1,16 @@
+# Fastfetch
+fastfetch
+
+# Custom Aliases
+alias usys="sudo pacman -Syu --needed --noconfirm && yay -Syu --needed --noconfirm"
+alias pinstall="sudo pacman -S --needed --noconfirm"
+alias yinstall="yay -S --needed --noconfirm"
+alias rb="reboot"
+alias po="systemctl poweroff"
+alias spo="sudo systemctl poweroff"
+alias nc="nordvpn connect London"
+alias nd="nordvpn disconnect"
+alias ns="nordvpn status"
+alias sw="shotwell"
+alias utar="tar xvf"
+alias ff="fastfetch"

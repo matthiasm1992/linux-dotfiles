@@ -1,0 +1,23 @@
+# Fastfetch
+fastfetch
+
+# Custom Aliases
+alias install="sudo dnf install"
+alias upg="sudo dnf upgrade -y"
+alias usys="sudo dnf upgrade -y && flatpak update"
+alias search="dnf search"
+alias rem="sudo dnf remove"
+alias nc="nordvpn connect London"
+alias nd="nordvpn disconnect"
+alias ns="nordvpn status"
+alias po="systemctl poweroff"
+alias spo="sudo systemctl poweroff"
+alias rb="reboot"
+alias srb="sudo reboot"
+alias utar="tar xvf"
+alias sw="shotwell"
+alias fl="flatpak list"
+alias fr="flatpak remove"
+alias fu="flatpak update"
+alias ff="fastfetch"
+alias lsvr="live-server . --port=1337"

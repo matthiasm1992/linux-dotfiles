@@ -1,0 +1,22 @@
+# Fastfetch
+fastfetch
+
+# Custom Aliases
+alias usys="sudo apt update && sudo apt upgrade -y"
+alias upd="sudo apt update"
+alias upg="sudo apt upgrade -y"
+alias ins="sudo apt install"
+alias rem="sudo apt remove"
+alias srch="apt search"
+alias purge="sudo apt purge"
+alias nc="nordvpn connect"
+alias nd="nordvpn disconnect"
+alias ns="nordvpn status"
+alias po="systemctl poweroff"
+alias spo="sudo systemctl poweroff"
+alias rb="reboot"
+alias srb="sudo reboot"
+alias ff="fastfetch"
+alias sw="shotwell"
+alias utar="tar xvf"
+alias lsvr="live-server --port=1337"

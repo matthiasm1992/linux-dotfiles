@@ -1,8 +1,5 @@
-# Fastfetch
-fastfetch
-
 # Custom Aliases
-alias install="sudo dnf install"
+alias ins="sudo dnf install"
 alias upg="sudo dnf upgrade -y"
 alias usys="sudo dnf upgrade -y && flatpak update"
 alias search="dnf search"

@@ -13,3 +13,12 @@ alias ns="nordvpn status"
 alias sw="shotwell"
 alias utar="tar xvf"
 alias ff="fastfetch"
+
+# Git Commands
+alias gcl="git clone --depth=1"
+alias gi="git init"
+alias gc="git commit"
+alias ga="git add"
+alias gaa="git add ."
+alias gp="git push"
+alias gs="git status"

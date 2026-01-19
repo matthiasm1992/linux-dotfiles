@@ -1,10 +1,9 @@
 # Custom Aliases
-alias usys="sudo dnf upgrade -y && flatpak update"
 alias di="sudo dnf install"
 alias du="sudo dnf upgrade -y"
 alias ds="dnf search"
 alias dr="sudo dnf remove"
-alias nc="nordvpn connect London"
+alias nc="nordvpn connect"
 alias nd="nordvpn disconnect"
 alias ns="nordvpn status"
 alias po="systemctl poweroff"
